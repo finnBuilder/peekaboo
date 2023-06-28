@@ -3,14 +3,13 @@ body {
   margin: 0;
   padding: 0;
   height: 100%;
-}
 
-body {
   background-image: url("./pics613/backgroundSolid.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   height: 100%;
+  width: 100%;
 }
 
 div {
@@ -23,10 +22,9 @@ div {
   display: none;
 }
 
-p {
-  color: yellow;
+h1 {
+  color: black;
   font-weight: 900;
-  font-size: 15px;
 }
 
 button {
