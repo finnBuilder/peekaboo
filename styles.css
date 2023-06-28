@@ -1,4 +1,10 @@
-body {
+html {
+  background-image: url("./pics613/backgroundSolid.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: cover;
+}
+.body {
   background-image: url("./pics613/backgroundSolid.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
