@@ -1,14 +1,15 @@
-html {
+.html {
   background-image: url("./pics613/backgroundSolid.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: cover;
 }
-.body {
+body {
   background-image: url("./pics613/backgroundSolid.jpeg");
-  background-repeat: no-repeat;
   background-size: cover;
-  background-position: cover;
+  background-repeat: no-repeat;
+  
+  height: 100%;
 }
 
 div {
