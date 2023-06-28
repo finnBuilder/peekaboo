@@ -28,6 +28,7 @@ button {
 
 .peekaboo-icon {
   height: 900px;
+  border: none;
 }
 
 .icon {
@@ -38,6 +39,7 @@ button {
 
 .person {
   background-color: transparent;
+  border: none;
   height: 900px;
   cursor: pointer;
 }
