@@ -1,0 +1,43 @@
+body {
+  background-image: url("./pics613/backgroundSolid.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
+
+h1 {
+  color: white;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.peekaboo-button {
+  background-color: transparent;
+
+  border: none;
+  cursor: pointer;
+}
+
+.peekaboo-icon {
+  height: 900px;
+}
+
+.icon {
+  background-color: transparent;
+
+  border: none;
+}
+
+.person {
+  background-color: transparent;
+  height: 900px;
+  cursor: pointer;
+}
